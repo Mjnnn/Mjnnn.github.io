@@ -1,0 +1,57 @@
+body {
+	font-family: Tahoma;
+	font-size: 18px ;
+	width: 1000px;
+	margin: 0px auto;
+}
+#menu0{
+	background:yellow ;
+	height: 50px;
+
+}
+#banner{
+	height: 300px;
+	width: 1000px;
+}
+#main #left{
+	width:750px;
+    background: brown;
+	float: left;
+	min-height: 2000px;
+}
+#main #right{
+	width:250px ;
+	background: snow;
+	float: left;
+	min-height: 2000px;
+}
+#footer{
+	background: gray;
+	width: 1000px;
+	height: 135px;
+	line-height: 15px;
+	text-align: center;
+	clear: left;
+}
+#main #left ul {
+	margin: 5px;
+	padding: 0px;
+}
+#main #left ul li{
+	list-style: none;
+}
+#main{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#main #right ul {
+	margin: 5px;
+	padding: 0px;}
+
+#main #left #a2{
+	margin: 5px;
+	color: white;
+}
+#a5,#a6,#a7,#a8,#a9,#a10{
+	font-size:14px;
+}

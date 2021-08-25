@@ -1,0 +1,228 @@
+<select>
+						<optgroup label="Quốc Gia">
+							<option><a href="https://dongphym.co/content/search?t=ft&nt=KR" title="Hàn Quốc">Hàn Quốc</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&nt=CN" title="Trung Quốc">Trung Quốc</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&nt=JP" title="Nhật Bản">Nhật Bản</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&nt=US" title="Mỹ">Mỹ</a></option>
+						</optgroup>
+					</select>
+				</li>
+				<li>
+					<select>
+						<optgroup label="Thể Loại">
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=romance" title="Tình Cảm-Lãng Mạn">Tình Cảm-Lãng Mạn</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=comedy" title="Hài Hước">Hài Hước</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=school" title="Học Đường">Học Đường</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=adventure" title="Phiêu Lưu">Phiêu Lưu</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=action" title="Hành Động">Hành Động</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=sci-fi" title="Khoa Học - Viễn Tưởng">Khoa Học -Viễn Tưởng</a></option>
+							<option><a href="https://dongphym.co/content/search?t=ft&gr=family" title="Gia Đình">Gia Đình</a></option>
+						</optgroup>
+					</select>
+
+
+
+					#footer{
+	background: gray;
+	width: 1000px;
+	height: 150px;
+	line-height: 150px;}
+
+
+
+
+
+	lutru:
+	<Body>
+	<style>
+		#a1{
+			width:960px ;
+			margin: 0px auto;
+		}
+		ul li{
+		list-style: none;
+	}
+	ul#menu li{
+		float: left;
+	}
+	ul#menu {
+		float: right;
+	}
+	#logo{
+		float: left;
+		height: 50px;
+	}
+	#logo img{
+		height: 100%;
+		width: 120px;
+	}
+	ul#menu li a{
+		padding: 10px 15px;
+		text-decoration: none ;
+		color: black;
+		border-right: 1px solid white;
+	}
+	</style>
+	<div id="a1">
+		<div id="a2">
+			<a href="" id="logo">
+				<img src="./logo3.jpg">
+			</a>
+			<div id="menu0">
+			<ul id="menu">
+				<li><a href="WebFim.html" title="Trang Chủ">Trang Chủ</a></li>
+				<li><a href="https://yeuphimmoix.com/" title="Phim Mới">Phim Mới</a></li>
+				<li><a href="https://yeuphimmoix.com/phim-chieu-rap/" title="Phim Chiếu Rạp">Phim Chiếu Rạp</a></li>
+				<li><a href="https://yeuphimmoix.com/phim-le/" title="Phim Lẻ">Phim Lẻ</a></li>
+				<li><a href="https://yeuphimmoix.com/phim-bo/" title="Phim Bộ">Phim Bộ</a></li>
+				<li><a href="https://dongphym.co/content/search?t=ft&nt=KR" title="Quốc Gia">Quốc Gia</a></li>
+				<li><a href="https://dongphym.co/content/search?t=ft&gr=school" title="Thể Loại">Thể Loại</a> </li>
+			</ul>
+			</div>
+		</div>
+	</div>
+	<div id="banner">
+		<img width="1000" height="300" src="./1.jpg"/>
+	</div>
+
+	<div id="main">
+		<div id="left">
+			<p id="a2"> Phim Hot Nhất Trong Tuần: </p>
+			<ul>
+				<li>
+					<h4>1.Bí Mật Nơi Góc Tối</h1>
+						<img  width="375" height="200" src="./bimat1.jpg"/>
+						<div id="a6">
+					Bộ Phim Nói Về Tình Yêu Tuổi Thanh Xuân Hết Sức Rực Rỡ Của Chu Tư Việt (Do Trần Triết Viễn Thủ Vai) Và Trần Đinh Tiễn (Do Từ Mộng Khiết Thủ Vai).
+
+					</br><a href="https://dongphym.com/movie/bi-mat-noi-goc-toi-secrets-in-the-lattice-2021_VXVTaARb.html"> =>>> Xem Phim</a>
+				</div>
+
+					
+				</li>
+				<li>
+					<h4>2.Thượng Nguồn Nước Mắt</h4>
+						<img  width="375" height="200" src="./thuong.jpg"/>
+						<div id="a5">
+					Thanh Xuân Cấp 3 và Cuộc Sống Sinh Viên Hồn Nhiên Vui Tươi Nhưng Cũng Thấm Đẫm Nước Mắt Của Lục Thực Y (Do Vương Thụy Xương Thủ Vai) Và Hạ Tiểu Quát (Do Hồ Ý Hoàn Thủ Vai).
+				</br><a href="https://dongphym.co/movie/thuong-nguon-nuoc-mat-a-river-runs-through-it_qxJaqAOX.html">=>>> Xem Phim</a>
+				</div>
+
+					
+				</li><li>
+					<h4>3.Học Viện Cảnh Sát</h4>
+						<img  width="375" height="200"src="./hocvien.jpg"/>
+						<div id="a7">
+					 Kang Sun Ho(Jin Young) Là Một Hacker Và Anh Ấy Rất Thông Minh. Oh Kang Hee(<K></K>rystal Jung) Là Người Chính Trực Và Trung Thực. Cùng Thám Tử Yoo Dong Man ( Cha Tae Hyun ) Cùng Nhau Triệt phá Cờ Bạc Trên Internet Ngầm Vô Cùng Lớn
+				</br><a href="https://dongphym.co/movie/hoc-vien-canh-sat-police-university-2021_PDTpWgmK.html?utm_source=BXH&utm_medium=tvshow&utm_campaign=dpnet">=>>> Xem Phim</a>
+				</div>
+
+					
+				</li>
+
+				<li>
+					<h4>4.Thiếu Nữ Phù Thủy Quyết Đấu</h4>
+						<img width="375" height="200"src="./thieunu.jpeg"/>
+						<div id="a8">
+					 Xoay quanh câu chuyện về cô gái 18 tuổi Ga Du-Sim, vốn được định sẵn sẽ làm pháp sư diệt trừ tà ác thế nhưng Du-Sim lại chối bỏ số phận muốn sống như người bình thường. Cho đến khi cô gặp nam sinh nhà giàu học giỏi Na Woo-Soo, từ khi gặp cô Woo-Soo đột nhiên nhìn thấy các linh hồn ma quái. Hai người trở thành bạn đồng hành cùng nhau tác chiến tiêu diệt linh hồn độc ác.
+				</br><a href="https://dongphym.co/movie/thieu-nu-phu-thuy-quyet-dau-superior-shaman-ga-doo-shim-2021_dk8qGgkd.html">=>>> Xem Phim</a>
+				</div>
+
+					
+				</li>
+				<li>
+					<h4>5.Avengers: End Game </h4>
+						<img width="375" height="200"src="./endg.jpeg"/>
+						<div id="a9">
+					Sau sự kiện hủy diệt tàn khốc, vũ trụ trong cảnh hoang tàn. Với sự trợ giúp của những đồng minh còn sống sót, biệt đội siêu anh hùng Avengers tập hợp một lần nữa để đảo ngược hành động của Thanos và khôi phục lại trật tự của vũ trụ.
+				</br><a href="https://bilutv.tv/phim/12726-biet-doi-sieu-anh-hung-phan-4-hoi-ket-s1">=>>> Xem Phim</a>
+				</div>
+
+	
+				</li>
+				<li>
+					<h4>6.Harry Potter: Tên Tù Vượt Ngục Azkaban</h4>
+						<img width="375" height="200"src="./hary.jpg"/>
+						<div id="a10">
+					"Harry Potter Và Tên Tù Nhân Ngục Azkaban là phần tiếp theo của series được chuyển thể từ bộ tiểu thuyết cùng tên của nhà văn J.K Rowling. Bộ phim lấy bối cảnh vào thời điểm Harry kết thúc năm học thứ 2 và trở về nhà dượng,cậu không ngờ mình sẽ đối mặt với cô Marge. 
+				</br><a href="https://dongphym.co/movie/harry-potter-va-ten-tu-nhan-nguc-azkaban-harry-potter-and-the-prisoner-of-azkaban-2004_EkblNgme.html">=>>> Xem Phim</a>
+				</div>
+			</li>
+			</ul>
+		</div>
+		<div id="right">
+			<div id="menuright">
+				<h5> Các Bộ Phim Nổi Tiếng :</h5>
+				<ul>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/co-nang-manh-me-do-bong-soon-strong-woman-do-bong-soon-6a13e431_DixQHACL.html">+ Cô Nàng Mạng Mẽ Do Bong Soon</a></h6>
+						<img width=" 125" src="./co.png"/>
+					</li>
+					<li> 
+						<h6><a href=https://dongphym.co/en/movie/khach-san-ma-quai-khach-san-bi-an-hotel-del-luna-103546d0_Qo0xRwbb.html">+ Khác Sạn Ma Quái</a></h6>
+						<img width=" 125" src="./dell.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/en/movie/thoi-gian-luong-than-my-canh-love-scenery-luong-than-my-canh-hao-thoi-quang-0d4b5ada_2QVQJAiI.html">+ Thời Gian Lương Thần Mỹ Cảnh</a></h6>
+						<img width=" 125" src="./thoi.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.com/movie/mot-ngay-bien-thanh-em-the-day-of-becoming-you-2021-181869a2_xxk2a3HAkH.html">+ Một Ngày Biến Thành Em</a></h6>
+						<img width=" 125" src="./mot.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/qua-nhanh-qua-nguy-hiem-9-fast-furious-9_9PT8LwYV.html">+ Quá Nhanh Quá Nguy Hiểm 9</a></h6>
+						<img width=" 125" src="./nhanh.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/nam-dai-hoa-2012-2009_CGTg5gWF.html">+ Đại Họa 2012</a></h6>
+						<img width=" 125" src="./2012.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/biet-doi-sieu-anh-hung-the-avengers-2012_o295Pw2v.html">+ Avengers: Biệt Đội Báo Thù</a></h6>
+						<img width=" 125" src="./baothu.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphim.info/xem-phim/nhung-tay-choi-sieu-dang-6013.html">+ Những Tay Chơi Siêu Đẳng</a></h6>
+						<img width=" 125" src="./taychoi.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/gui-thoi-thanh-xuan-am-ap-cua-chung-ta-put-your-head-on-my-shoulder_9nKWSQPG.html">+ Gửi Thời Thanh Xuân Ấm Áp Của Chúng Ta</a></h6>
+						<img width=" 125" src="./gui.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/cau-be-karate-the-karate-kid-2010_W7CWbgNz.html">+ The Karate Kid</a></h6>
+						<img width=" 125" src="./karate.png"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/en/movie/nguoi-thay-y-duc-2-romantic-doctor-39570193_xLbjIAWR.html">+ Người Thầy Y Đức 2 </a></h6>
+						<img width=" 125" src="./thay.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/ha-chi-chua-toi-rush-to-the-dead-summer_2IttvQGx.html">+ Hạ Chí Chưa Tới</a></h6>
+						<img width=" 125" src="./ha.jpg"/>
+					</li>
+					<li> 
+						<h6><a href="https://dongphym.co/movie/the-gioi-ma-quai-sweet-home-2020_o1PrIAfB.html">+ Sweet Home</a></h6>
+						<img width=" 125" src="./sweet.png"/>
+					</li>
+				</ul>
+		</div>
+	</div>
+	<div id="footer">
+		<p>
+      </br> Phim Sẽ Cập Nhật Vào Mỗi Tối Thứ 7 Hàng Tuần!!!
+	</p>
+	<p>
+	 Chi Tiết Liên Hệ :
+	</p>
+	<p>
+	 *Email: tucongminh3008@gmail.com 
+	</p>
+	<p>
+	 *Fb: https://www.facebook.com/mjn3008
+	</p>
+	</div>
+	
+</body>
+</html>
